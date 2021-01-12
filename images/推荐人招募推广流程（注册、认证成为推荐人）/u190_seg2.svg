@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="34px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="200 1361  34 8" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip608">
-      <path d="M 175.5 971  L 234.5 971  L 234.5 996  L 175.5 996  Z M 175.5 607  L 243 607  L 243 1374  L 175.5 1374  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <path d="M 243 610.5  L 210 610.5  A 5 5 0 0 0 205.5 615.5 L 205.5 1360  A 5 5 0 0 0 210.5 1365.5 L 229 1365.5  " stroke-width="1" stroke="#555555" fill="none" mask="url(#clip608)" />
-  <path d="M 228 1371.8  L 234 1365.5  L 228 1359.2  L 228 1371.8  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip608)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="1190px" preserveAspectRatio="xMidYMin meet" viewBox="126 445  8 1190" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 813.5 1619  L 813.5 1625  A 5 5 0 0 1 808.5 1630.5 L 135 1630.5  A 5 5 0 0 1 130.5 1625.5 L 130.5 455  A 5 5 0 0 1 135.5 450.5 L 250 450.5  " stroke-width="1" stroke="#555555" fill="none" />
+  <path d="M 249 456.8  L 255 450.5  L 249 444.2  L 249 456.8  Z " fill-rule="nonzero" fill="#555555" stroke="none" />
 </svg>
