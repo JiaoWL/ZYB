@@ -435,7 +435,7 @@
   word-wrap:break-word;
   text-transform:none;
 }
-#u26_img {
+#u28_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -443,7 +443,7 @@
   width:320px;
   height:100px;
 }
-#u26 {
+#u28 {
   border-width:0px;
   position:absolute;
   left:740px;
@@ -457,14 +457,14 @@
   text-align:left;
   line-height:28px;
 }
-#u26 .text {
+#u28 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u26_text {
+#u28_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
